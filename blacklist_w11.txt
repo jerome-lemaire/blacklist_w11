@@ -1,6 +1,7 @@
 Built-in apps listed below that are not prefixed with a  will be considered eligible for removal
 Prefix item with # to mark it for removal
 
+#Clipchamp.Clipchamp
 Microsoft.549981C3F5F10
 #Microsoft.BingNews
 #Microsoft.BingWeather
@@ -13,6 +14,7 @@ Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
 #Microsoft.MicrosoftSolitaireCollection
 Microsoft.MicrosoftStickyNotes
+#Microsoft.OutlookForWindows
 Microsoft.Paint
 Microsoft.People
 Microsoft.PowerAutomateDesktop
@@ -45,4 +47,5 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneMusic
 #Microsoft.ZuneVideo
 #MicrosoftTeams
+#MSTeams
 MicrosoftWindows.Client.WebExperience
